@@ -1,0 +1,24 @@
+{
+  "tarefas": [
+    {
+      "titulo": "Água",
+      "descricao": "Beber 2 litros de água no dia\n",
+      "id": 1
+    },
+    {
+      "titulo": "Correr",
+      "descricao": "Corrida diária de 40min",
+      "id": 2
+    },
+    {
+      "titulo": "Nadar",
+      "descricao": "Ir a aula de natação a tarde",
+      "id": 3
+    },
+    {
+      "titulo": "ewqeqwe",
+      "descricao": "ewqeqwe",
+      "id": 4
+    }
+  ]
+}
